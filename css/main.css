@@ -1,0 +1,19 @@
+html {
+  font-family: 'Roboto', sans-serif;
+  background-color: #bec5ad;
+}
+
+h1, h2, h3 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
+  color: #34252f;
+}
+
+h3 {
+  font-variant: small-caps;
+}
+
+a {
+  text-decoration: none;
+  color: #3b5249;
+}
