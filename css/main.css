@@ -1,12 +1,19 @@
 html {
   font-family: 'Roboto', sans-serif;
-  background-color: #bec5ad;
+  background-color: #222629;
+}
+
+h1 {
+  color: #87c232;
 }
 
 h1, h2, h3 {
   font-family: 'Rubik', sans-serif;
   font-weight: 400;
-  color: #34252f;
+}
+
+h2, h3 {
+  color: #618930;
 }
 
 h3 {
@@ -15,5 +22,9 @@ h3 {
 
 a {
   text-decoration: none;
-  color: #3b5249;
+  color: #6a6e71;
+}
+
+p {
+  color: #edf5e1;
 }
